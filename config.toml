@@ -25,15 +25,3 @@ enabled = true
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
 uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
 # arch = "armeabi-v7a"
-
-[Facebook]
-enabled = true
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
-uptodown-dlurl = "https://facebook.en.uptodown.com/android"
-# arch = "armeabi-v7a"
-
-[Spotify]
-enabled = false
-build-mode = "apk"
-version = "auto"
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
