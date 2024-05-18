@@ -56,7 +56,7 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - id: "YouTube-anddea"
+          # - id: "YouTube-anddea"
           # - id: "Music-anddea"
           - id: "YouTube"
           # - id: "Music"
@@ -65,7 +65,7 @@ jobs:
           - id: "TikTok"
           # - id: "Reddit"
           - id: "Messenger"
-          - id: "Facebook"
+          # - id: "Facebook"
           # - id: 'Spotify'
           # - id: "Spotify-Lite"
           #   - id: "Citra"
