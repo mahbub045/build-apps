@@ -13,6 +13,16 @@ version = "auto"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
+[YouTube-anddea]
+enabled = true
+app-name = "YouTube"
+version = "auto"
+patches-source = "anddea/revanced-patches"
+integrations-source = "anddea/revanced-integrations"
+rv-brand = "anddea"
+build-mode = "apk"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+
 [TikTok]
 version = "auto"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
